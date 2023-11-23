@@ -1,0 +1,15 @@
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\bin\Debug\net7.0\TheCodeBase.exe
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\bin\Debug\net7.0\TheCodeBase.deps.json
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\bin\Debug\net7.0\TheCodeBase.runtimeconfig.json
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\bin\Debug\net7.0\TheCodeBase.dll
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\bin\Debug\net7.0\TheCodeBase.pdb
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.csproj.AssemblyReference.cache
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.AssemblyInfoInputs.cache
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.AssemblyInfo.cs
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.csproj.CoreCompileInputs.cache
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.dll
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\refint\TheCodeBase.dll
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.pdb
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\TheCodeBase.genruntimeconfig.cache
+C:\Users\rrona\source\repos\MarsRoverNavigator\TheCodeBase\obj\Debug\net7.0\ref\TheCodeBase.dll
